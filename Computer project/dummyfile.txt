@@ -1,0 +1,9 @@
+Hello
+there are a couple of words in here
+lets learn how to navigate through the words present in here using search functions
+ rendezvous
+ it is the feeling of something which i dont know
+ (might need to find a termination key how about set "(" as the key of termination)
+ ossy
+ this is a slang for aussie people.
+ (terminate here.)
