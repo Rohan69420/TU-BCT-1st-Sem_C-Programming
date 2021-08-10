@@ -1,0 +1,8 @@
+
+Word : hi
+
+Meaning : hello is the meaning
+
+Word : konnichiwa
+
+Meaning : hello in japanese
