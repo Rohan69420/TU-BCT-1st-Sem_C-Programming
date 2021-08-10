@@ -7,7 +7,7 @@ int main(){
         scanf("%d",(arr+i));
     }
     for (i=0;i<5;i++){
-        if (*(arr+i)%10==0 && *(arr+i)%15!=0){
+        if ((*(arr+i)%10==0) && (*(arr+i)%15!=0)){
             sum+=*(arr+i);
         }
     }
