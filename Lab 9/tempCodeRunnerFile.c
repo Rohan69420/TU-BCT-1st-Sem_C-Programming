@@ -9,4 +9,5 @@ void main()
     for (i=0;i<6;i++)
     printf("%d",*(num+i));
     getch();
+    return 0;
 }

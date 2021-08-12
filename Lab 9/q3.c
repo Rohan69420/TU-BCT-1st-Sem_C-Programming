@@ -6,7 +6,7 @@ void main()
     int i;
     printf("%d",marks);
     printf("Address of different array elements:");
-    for (i=0;i<5;++)
+    for (i=0;i<5;i++)
     printf("Address of element %d is %u\n",i,&marks[i]);
     getch();
 }
