@@ -25,7 +25,7 @@ int main()
     FILE *fp, *fp1;
     fp = fopen("first.txt", "w+");
     fp1 = fopen("second.txt", "w+");
-    for (int i = 0; i < 5; i++)
+    for(int i = 0; i < 5; i++)
     {
         printf("\nEnter name: ");
         fflush(stdin);
