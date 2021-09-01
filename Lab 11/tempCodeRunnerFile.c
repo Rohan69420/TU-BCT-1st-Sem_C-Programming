@@ -13,7 +13,7 @@ int main()
         struct Date d;  
     };
     struct person p[99];
-    while((dec=='y') || (dec== 'Y')){
+    while(dec!='n' || dec!='N'){
         
         printf("\nEnter name: ");
         fflush(stdin);
@@ -32,7 +32,6 @@ int main()
         printf("\nEnter year");
         scanf("%d",&p[i].d.yy);
         printf("\nDo you want to continue (y/n)?");
-        fflush(stdin);
         dec=getch();
         i++;
 

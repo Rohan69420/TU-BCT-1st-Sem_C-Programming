@@ -1,0 +1,1 @@
+    scanf("%s",word); //scanning for string
